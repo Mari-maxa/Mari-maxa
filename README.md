@@ -3,8 +3,8 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on в области моушен дизайна
 - 📫 How to reach me Maria Trusova
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 😄 Pronouns: ты
+- ⚡ Fun fact: у меня живёт какаду
 
 <!---
 Mari-maxa/Mari-maxa is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
